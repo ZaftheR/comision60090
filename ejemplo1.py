@@ -3,8 +3,8 @@ def saludar():
 
 saludar()
 
-def suma():
-    pass
+def pasado():
+    print('estoy en el pasado')
 
 def suma(numero1, numero2):
         return numero1 + numero2 
